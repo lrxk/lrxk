@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, harware and history
 - 🌱 I’m currently learning to use Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : kevin.leroux@etu.univ-lehavre.fr
 
 <!---
 lrxk/lrxk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
