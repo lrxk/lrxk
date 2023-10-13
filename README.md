@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lrxk
-- 👀 I’m a CS student at the University of Le Havre
+- 👀 I’m a data analyst at GRDF
 - 👀 I’m interested in computers, hardware and history
-- 🌱 I’m currently learning to use Python
+- 🌱 I’m currently learning to use Python libraries related to data
 - 💞️ I’m looking to collaborate on data science or data analysis projects !
 - 📫 How to reach me : k.lrx076pro@gmail.com
 
