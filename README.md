@@ -3,7 +3,7 @@
 - 👀 I’m interested in computers, hardware and history
 - 🌱 I’m currently learning to use Python
 - 💞️ I’m looking to collaborate on data science or data analysis projects !
-- 📫 How to reach me : kevin.leroux@etu.univ-lehavre.fr
+- 📫 How to reach me : k.lrx076pro@gmail.com
 
 <!---
 lrxk/lrxk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
