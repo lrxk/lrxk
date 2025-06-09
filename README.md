@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lrxk
 - 👀 I’m a data analyst at GRDF
-- 👀 I’m interested in computers, hardware and history
+- 👀 I’m interested in computers, hardware, history and writing stories
 - 🌱 I’m currently learning to use Python libraries related to data
 - 💞️ I’m looking to collaborate on data science or data analysis projects !
 - 📫 How to reach me : k.lrx076pro@gmail.com
